@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Tema 3</string>
+    <string name="button1">Abrir Activity2</string>
+    <string name="activity2">Activity2</string>
 </resources>
